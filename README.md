@@ -1,5 +1,7 @@
 # react-native-google-photos
+ [![npm version](https://badge.fury.io/js/react-native-google-photos.svg)](https://www.npmjs.com/package/react-native-google-photos)
  > Grabs Streaming &amp; Downloader Link Google Photos & Blogger .Dll
+ 
 
 ## Toc
 
