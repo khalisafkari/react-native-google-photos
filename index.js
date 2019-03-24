@@ -1,6 +1,7 @@
-import item from './api'
-const Gphotos = item;
-export default Gphotos;
+import {default as gb} from './dist/api';
+const Grab = gb;
+export default Grab;
+
 
 
 //jspm.io cors allow

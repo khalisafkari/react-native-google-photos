@@ -1,12 +1,13 @@
 {
   "name": "react-native-google-photos",
-  "version": "1.0.13",
+  "version": "2.0.0",
   "main": "index.js",
   "description": "Grabs Streaming & Downloader Url Google Photos",
   "homepage": "https://verdauen.com",
   "license": "MIT",
   "scripts": {
-    "dev": "node -r esm index.js"
+    "dev": "node -r esm index.js",
+    "api": "node -r esm api.js"
   },
   "repository": {
     "type": "git",
