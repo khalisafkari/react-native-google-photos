@@ -18,8 +18,8 @@ import cio from 'cheerio-without-node-native';
 //     item()
 // }
 
-const item = async(url) => {
-    const url = await axios.get(url);
+const item = async(i) => {
+    const url = await axios.get(i);
     const $ = cio.load(url.data)('body').html()
     const item = `${$}`
     const $data = item.split('003d');
@@ -41,4 +41,3 @@ const item = async(url) => {
 }
 
 export default item;
-

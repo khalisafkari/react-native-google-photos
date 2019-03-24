@@ -1,1 +1,3 @@
-import {default as item} from './api'
+import item from './api'
+const Gphotos = item;
+export default Gphotos;
