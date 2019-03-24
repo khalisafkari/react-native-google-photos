@@ -1,0 +1,32 @@
+{
+  "name": "react-native-google-photos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Grabs Streaming & Downloader Url Google Photos",
+  "license": "MIT",
+  "scripts": {
+    "dev":"node -r esm index.js"
+  },
+  "author": {
+    "email": "khalis411@gmail.com",
+    "url": "https://verdauen.com",
+    "name": "khalis afkari"
+  },
+  "keywords": [
+    "react-native",
+    "react native",
+    "react native video",
+    "video",
+    "google photos",
+    "downloader",
+    "ios",
+    "android"
+  ],
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio-without-node-native": "^1.0.0-rc.2"
+  },
+  "devDependencies": {
+    "esm": "^3.2.20"
+  }
+}
