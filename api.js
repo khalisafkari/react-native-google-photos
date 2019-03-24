@@ -23,21 +23,21 @@ const item = async(i) => {
     const $ = cio.load(url.data)('body').html()
     const item = `${$}`
     const $data = item.split('003d');
-    const arr = new Array()
+    const todos = {}
     for(let i = 0;i < $data.length;i++){
         if($data[i].indexOf('hd1080') != -1){
-            arr['hd1080'] = `${decodeURIComponent($data[1].split('%3Dm')[0])}=m37`
+            todos['hd1080'] = `${decodeURIComponent($data[1].split('%3Dm')[0])}=m37`
             // arr.push({
             //     type:'hd1080',
             //     src:`${$data[1].split('%3Dm')[0]}=m37`
             // })
         }else if($data[i].indexOf('hd720') != -1){
-            arr['hd720'] = `${decodeURIComponent($data[1].split('%3Dm')[0])}=m22`
+            todos['hd720'] = `${decodeURIComponent($data[1].split('%3Dm')[0])}=m22`
         }else{
-            arr['hd480'] = `${decodeURIComponent($data[1].split('%3Dm')[0])}=m18`
+            todos['hd480'] = `${decodeURIComponent($data[1].split('%3Dm')[0])}=m18`
         }
     }
-    return arr;
+    return todos;
 }
 
 export default item;
