@@ -1,6 +1,6 @@
 {
   "name": "react-native-google-photos",
-  "version": "1.0.1",
+  "version": "1.0.11",
   "main": "index.js",
   "description": "Grabs Streaming & Downloader Url Google Photos",
   "homepage": "https://verdauen.com",
