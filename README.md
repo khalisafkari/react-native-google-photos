@@ -1,5 +1,5 @@
 # react-native-google-photos
- > Grabs Streaming &amp; Downloader Link Google Photos
+ > Grabs Streaming &amp; Downloader Link Google Photos & Blogger .Dll
 
 ## Toc
 
