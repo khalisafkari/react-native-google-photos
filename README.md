@@ -1,5 +1,7 @@
 # react-native-google-photos
- [![npm version](https://badge.fury.io/js/react-native-google-photos.svg)](https://www.npmjs.com/package/react-native-google-photos) <a href="https://snyk.io/test/github/khalisafkari/react-native-google-photos?targetFile=package.json"><img src="https://snyk.io/test/github/khalisafkari/react-native-google-photos/badge.svg?targetFile=package.json" alt="Known Vulnerabilities" data-canonical-src="https://snyk.io/test/github/khalisafkari/react-native-google-photos?targetFile=package.json" style="max-width:100%;"></a>
+ [![npm version](https://img.shields.io/npm/v/react-native-google-photos.svg?color=g&label=NPM&style=for-the-badge)](https://www.npmjs.com/package/react-native-google-photos) <a href="https://snyk.io/test/github/khalisafkari/react-native-google-photos?targetFile=package.json"><img alt="Snyk Vulnerabilities for GitHub Repo" src="https://img.shields.io/snyk/vulnerabilities/github/khalisafkari/react-native-google-photos.svg?style=for-the-badge"></a>
+ <a href="https://www.npmjs.com/package/react-native-google-photos">
+ <img alt="npm" src="https://img.shields.io/npm/dw/react-native-google-photos.svg?style=for-the-badge"></a>
  > Grabs Streaming &amp; Downloader Link Google Photos & Blogger .Dll
  
 
