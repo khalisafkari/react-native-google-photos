@@ -2,6 +2,7 @@
  [![npm version](https://img.shields.io/npm/v/react-native-google-photos.svg?color=g&label=NPM&style=for-the-badge)](https://www.npmjs.com/package/react-native-google-photos) <a href="https://snyk.io/test/github/khalisafkari/react-native-google-photos?targetFile=package.json"><img alt="Snyk Vulnerabilities for GitHub Repo" src="https://img.shields.io/snyk/vulnerabilities/github/khalisafkari/react-native-google-photos.svg?style=for-the-badge"></a>
  <a href="https://www.npmjs.com/package/react-native-google-photos">
  <img alt="npm" src="https://img.shields.io/npm/dw/react-native-google-photos.svg?style=for-the-badge"></a>
+ [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
  > Grabs Streaming &amp; Downloader Link Google Photos & Blogger .Dll
  
 
