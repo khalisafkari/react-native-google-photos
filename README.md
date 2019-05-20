@@ -57,10 +57,15 @@ Grab.Blogger(blogger).then(res=>{
 * Allow the google photos to public access folder
 * Only supports video urls not folder urls
 
+## Require Mp4upload.com
+
+* Only embed url 
+
 ## Next
 - [x] Add `Streaming & Download` [Google Photos](https://photos.google.com) 
 - [x] Add `Streaming & Download ` [Blogger](https://www.blogger.com)
 - [ ] Add `Streaming Only`  [Cloudvideo.tv](https://cloudvideo.tv/) 
+- [x] Add `Streaming & Donwload` [Mp4upload.com](https://www.mp4upload.com)
 
 ## Donate
  * <a href="https://paypal.me/khalisafkari?locale.x=id_ID"><img src="https://www.paypalobjects.com/webstatic/i/logo/rebrand/ppcom.png" heigth="50" width="50"/></a>
