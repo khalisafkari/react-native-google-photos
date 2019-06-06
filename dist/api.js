@@ -52,6 +52,13 @@ class Grab {
         const m = explodeMp4Upload(tt) 
         return m;
     }
+
+    async RapidVideo(i){
+        const url = await axios.get(i);
+        return {
+            url:cio.load(url.data)('source').attr('src')
+        }
+    }
     // async bgt(i){
     //     const url = await axios.get(i);
     //     const $ = cio.load(url.data);

@@ -1,6 +1,6 @@
 {
   "name": "react-native-google-photos",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "main": "index.js",
   "description": "Grabs Streaming & Downloader Url Google Photos",
   "homepage": "https://verdauen.com",
@@ -32,7 +32,7 @@
     "android"
   ],
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.19.0",
     "cheerio-without-node-native": "^1.0.0-rc.2",
     "snyk": "^1.161.1"
   },
