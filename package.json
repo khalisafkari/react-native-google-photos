@@ -15,11 +15,7 @@
     "type": "git",
     "url": "git+https://github.com/khalisafkari/react-native-google-photos.git"
   },
-  "author": {
-    "email": "khalis411@gmail.com",
-    "url": "https://verdauen.com",
-    "name": "khalis afkari"
-  },
+  "author": "khalis afkari <khalis411@gmail.com> (https://verdauen.com)",
   "keywords": [
     "react-native",
     "react native",
@@ -39,5 +35,8 @@
   "devDependencies": {
     "esm": "^3.2.20"
   },
-  "snyk": true
+  "snyk": true,
+  "bugs": {
+    "url": "https://github.com/khalisafkari/react-native-google-photos/issues"
+  }
 }
