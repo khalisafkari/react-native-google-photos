@@ -9,7 +9,7 @@
     "dev": "node -r esm index.js",
     "api": "node -r esm api.js",
     "snyk-protect": "snyk protect",
-    "prepublish": "npm run snyk-protect"
+    "prepublish": "yarn run snyk-protect"
   },
   "repository": {
     "type": "git",
@@ -30,7 +30,7 @@
   "dependencies": {
     "axios": "^0.19.0",
     "cheerio-without-node-native": "^1.0.0-rc.2",
-    "snyk": "^1.231.0"
+    "snyk": "^1.316.1"
   },
   "devDependencies": {
     "esm": "^3.2.20"
