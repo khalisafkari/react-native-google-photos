@@ -69,4 +69,4 @@ Grab.Blogger(blogger).then(res=>{
 - [x] Add `Streaming & Donwload` [RapidVideo.com](https://www.rapidvideo.com)
 
 ## Donate
- * <a href="https://paypal.me/khalisafkari?locale.x=id_ID"><img src="https://www.paypalobjects.com/webstatic/i/logo/rebrand/ppcom.png" heigth="50" width="50"/></a>
+ * <a href="https://paypal.me/khalis411?locale.x=en_US"><img src="https://www.paypalobjects.com/webstatic/i/logo/rebrand/ppcom.png" heigth="50" width="50"/></a>
